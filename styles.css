@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    display: block;
+    background-color: black;
+}
+h2{
+    text-align: center;
+    color: dodgerblue;
+}
+#title{
+    font-weight: bold;
+}
+th, table, td{
+    border: 1px solid blue;
+}
+.code {
+    font-family: monospace;
+    background-color: beige;
+    color: black;
+}
+.toptd{
+    color: black;
+    background-color: antiquewhite;
+}
+td{
+    color: antiquewhite;
+}
+table{
+    margin: 0 auto;
+    background-color: black;
+}
+
+.img{
+    background-image: url('https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    opacity: 0.5;
+}
+.img:hover{
+    opacity: 1.0;
+}
+p{
+    text-align: center;
+}
+h2{
+    border: 1px solid white;
+    background-color: black;
+}
